@@ -1,4 +1,4 @@
-loop# Youtube-Transcript-Extractor
+loo# Youtube-Transcript-Extractor
 ---
 Natural Language Processing (NLP) is an increasingly popular technology field with various applications. NLP is being utilized in several use cases such as text summarization, chatbot, machine translation, and text generation. In this article, we explore a mini NLP project that involves the development of a YouTube Transcript Extractor. The YouTube Transcript Extractor is designed to provide users with a brief overview of a large tutorial or video before watching it. The tool summarizes the content (subtitle) of the YouTube video, which allows users to save time and gain a quick understanding of the video's content...
 
